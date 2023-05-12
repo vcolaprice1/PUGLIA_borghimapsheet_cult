@@ -54,13 +54,13 @@ form {
 }
 
 .polygons-legend-scale {
-  margin-top: 14px;
+  margin-top: 4px;
   padding-top: 7px;
   border-top: dotted 3px #eee;
 }
 
 .polygons-legend-scale i {
-  width: 18px;
+  width: 189px;
   height: 18px;
   float: left;
   margin-right: 8px;
