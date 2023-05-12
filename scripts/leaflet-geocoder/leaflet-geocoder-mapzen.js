@@ -42,7 +42,7 @@
       attribution: 'Geocoding by <a href="https://mapzen.com/projects/search/">Mapzen</a>',
       url: 'https://search.mapzen.com/v1',
       placeholder: 'Cerca',
-      title: 'Cerca',
+      title: 'Search',
       bounds: false,
       focus: true,
       layers: null,
